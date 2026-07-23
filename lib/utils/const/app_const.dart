@@ -1,0 +1,1 @@
+const webScreenMinLayout = 550;
